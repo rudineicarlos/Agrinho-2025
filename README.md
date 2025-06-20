@@ -1,13 +1,13 @@
 # Projeto Agrinho 2025
-### Autor: 
-### Professor:
-### Escola:
-### Cidade:
+### Autor: Miguel Pessoa dos Santos
+### Professor: Rudinei Carlos da Rocha
+### Escola: Colégio Estadual do Campo Godoy Moreira
+### Cidade: Godoy Moreira
 
-## Tema:
-## Site:
+## Tema: Da cidade para o campo, lavando a técnologia.
+## Site: Como as etapas de conexões e o uso das tecnologias se desenvolvem no campo.
 
-# Referencia:
+# Referencia: Autoria própria.
 Imagens:
 
 Video:
